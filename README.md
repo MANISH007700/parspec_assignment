@@ -1,6 +1,8 @@
 # parspec_assignment
 This repo contains code and info for parspec assignment for DataScientist Role
 
+Checkout the APP HERE -> https://parspec-bert-finetuned-lighting.streamlit.app/ 
+
 ----
 
 # progress made 
@@ -13,7 +15,13 @@ This repo contains code and info for parspec assignment for DataScientist Role
 - [x] : Benchmarking the scores on test data [ Update : scored 91.25 % Accuracy ]
 - [x] : Add a tutorial NB for the team to run the code and check preds
 - [x] : Uploaded to huggingface hub [link -> https://huggingface.co/luci007/LightingData-Bert-Finetuned]
-- [ ] : Host on Streamlit and Heroku / run locally using Streamlit
+- [x] : Host on Streamlit Cloud [link -> https://parspec-bert-finetuned-lighting.streamlit.app/]
+
+-----
+# some snapshots from the WEB-APP
+![inp: url, output: light pdf](parspec_assignment/images/url_light.png)
+
+
 
 # improvements can be made 
 # will talk in depth in interview and also in my documentation
