@@ -12,4 +12,4 @@ def make_pred(model, tokenizer, input_clean_text) -> str:
 
     print("Pred class from model -> ", id2label[output_class])
     
-    return id2label[output_class]
+    return {"category": id2label[output_class], "id": output_class}

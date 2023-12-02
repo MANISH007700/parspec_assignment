@@ -83,7 +83,13 @@ def main(model, tokenizer):
 
     if input_clean_text != "":
         response = make_pred(model, tokenizer, input_clean_text)
-        st.success(f"Category --> {response}")
+        if response:
+            if response['id'] == 0:
+                st.error(f"Category ---> {response['category']}")
+            elif response['id'] == 1:
+                st.success(f"Category ---> {response['category']}")
+        else:
+            sys.exit()
     else:
         sys.exit()
 
