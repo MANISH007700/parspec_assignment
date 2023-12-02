@@ -12,7 +12,7 @@ nltk.download('stopwords')
 
 
 # load pytorch model and tokenizer from HF spaces
-# @st.cache
+@st.cache_resource
 def get_model():
     tokenizer = BertTokenizer.from_pretrained('luci007/LightingData-Bert-Finetuned')
     model = BertForSequenceClassification.from_pretrained("luci007/LightingData-Bert-Finetuned")
