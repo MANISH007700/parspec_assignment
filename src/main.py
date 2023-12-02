@@ -7,6 +7,10 @@ from transformers import BertTokenizer, BertForSequenceClassification
 from utils import download_pdf_from_url, extract_text_from_pdf, clean_text
 from model import make_pred
 
+import nltk 
+nltk.download('stopwords')
+
+
 # load pytorch model and tokenizer from HF spaces
 # @st.cache
 def get_model():
