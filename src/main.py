@@ -8,7 +8,7 @@ from utils import download_pdf_from_url, extract_text_from_pdf, clean_text
 from model import make_pred
 
 # load pytorch model and tokenizer from HF spaces
-@st.cache(allow_output_mutation=True)
+@st.cache_data()
 def get_model():
     tokenizer = BertTokenizer.from_pretrained('luci007/LightingData-Bert-Finetuned')
     model = BertForSequenceClassification.from_pretrained("luci007/LightingData-Bert-Finetuned")
@@ -18,7 +18,7 @@ def get_model():
 
 # Main Streamlit app
 def main(model, tokenizer):
-    st.title("Welcome to PDF TEXT CLASSIFICATION WEB-APP")
+    st.title("Welcome to PDF Text Classification Web-App")
 
     # Select input option (URL or File Upload)
     input_option = st.radio("Choose Input Option:", ["PDF URL", "Upload PDF File"])
@@ -76,8 +76,12 @@ def main(model, tokenizer):
 
     
     ## finally pass this cleaned text into model and get the predictions ##
-    response = make_pred(model, tokenizer)
-    st.success(f"Category --> {response}")
+
+    if input_clean_text:
+        response = make_pred(model, tokenizer, input_clean_text)
+        st.success(f"Category --> {response}")
+    else:
+        sys.exit()
 
     st.markdown("---")
     st.text("Built with ❤️ by Manish Sharma")
