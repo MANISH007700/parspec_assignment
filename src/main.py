@@ -8,7 +8,7 @@ from utils import download_pdf_from_url, extract_text_from_pdf, clean_text
 from model import make_pred
 
 # load pytorch model and tokenizer from HF spaces
-@st.cache_data()
+@st.cache
 def get_model():
     tokenizer = BertTokenizer.from_pretrained('luci007/LightingData-Bert-Finetuned')
     model = BertForSequenceClassification.from_pretrained("luci007/LightingData-Bert-Finetuned")
