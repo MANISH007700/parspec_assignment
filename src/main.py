@@ -19,7 +19,7 @@ def get_model():
 # Main Streamlit app
 def main(model, tokenizer):
     st.title("Welcome to PDF Text Classification Web-App")
-
+    input_clean_text = ""
     # Select input option (URL or File Upload)
     input_option = st.radio("Choose Input Option:", ["PDF URL", "Upload PDF File"])
     pdf_name = "temp.pdf"  # default name
@@ -77,7 +77,7 @@ def main(model, tokenizer):
     
     ## finally pass this cleaned text into model and get the predictions ##
 
-    if input_clean_text:
+    if input_clean_text != "":
         response = make_pred(model, tokenizer, input_clean_text)
         st.success(f"Category --> {response}")
     else:
