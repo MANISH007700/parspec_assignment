@@ -19,10 +19,21 @@ Checkout the APP HERE -> https://parspec-bert-finetuned-lighting.streamlit.app/
 
 -----
 # some snapshots from the WEB-APP
-![inp: url, output: light pdf](parspec_assignment/images/url_light.png)
 
+### [ inp - url , output - lighting pdf ]
+![inp: url, output: light pdf](images/url_light.png)
 
+### [ inp - url , output - no lighting pdf ]
+![inp: url, output: light pdf](images/url_no_light.png)
+
+### [ inp - pdf , output - lighting pdf ]
+![inp: url, output: light pdf](images/pdf_light.png)
+
+### [ inp - pdf , output - no lighting pdf ]
+![inp: url, output: light pdf](images/pdf_no_light.png)
+
+----
 
 # improvements can be made 
-# will talk in depth in interview and also in my documentation
+### will talk in depth in interview and also in my documentation
 - [ ] : Try out MultiModality Model [ Text + Images ] to be used for context [ time constraint, couldn't do]
