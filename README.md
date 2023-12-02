@@ -10,7 +10,7 @@ This repo contains code and info for parspec assignment for DataScientist Role
 - [x] : Convert the extracted text into a csv file [ for both train and test ]. This csv will be used for finetuning model
 - [x] : Finetuned BERT base model and BERT large model, had issues in bert large model. Satisfied with bert base
 - [x] : Try out Debertav3 model from MSFT for text classification  [ couldn't do it, since model is large and no compute power]
-- [x] : Benchmarking the scores on test data 
+- [x] : Benchmarking the scores on test data [ Update : scored 91.25 % Accuracy ]
 - [x] : Add a tutorial NB for the team to run the code and check preds
 - [x] : Uploaded to huggingface hub [link -> https://huggingface.co/luci007/LightingData-Bert-Finetuned]
 - [ ] : Host on Streamlit and Heroku / run locally using Streamlit
