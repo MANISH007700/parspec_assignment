@@ -2,4 +2,6 @@
 download_pdf/
 all_ocr_pdf/
 
+# ignore raw data extracted files 
+data/
 code/finetuned_model/

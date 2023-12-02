@@ -65,6 +65,11 @@ def main():
                 sys.exit()
 
     
+    ## finally pass this cleaned text into model and get the predictions ##
+    
+
+
+
     st.markdown("---")
     st.text("Built with ❤️ by Manish Sharma")
 
