@@ -1,0 +1,618 @@
+ 
+1  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+ 
+ 
+ LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Features 
+• Choice of various viewing angles 
+• Available on tape and reel. 
+• Reliable and robust 
+• Pb free 
+• The product itself will remain within RoHS compliant version. 
+ 
+Description 
+•The series is specially designed for applications requiring higher brightness 
+•The led lamps are available with different colors, intensities.. 
+ 
+Applications 
+• TV set 
+• Monitor 
+• Telephone 
+• Computer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+2  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+ 
+ Device Selection Guide 
+ 
+Chip 
+Materials 
+Emitted Color 
+Resin Color 
+InGaN 
+Brilliant Green 
+Green Diffused 
+ 
+ 
+ 
+ 
+ Absolute Maximum Ratings (Ta=25℃) 
+ 
+Parameter 
+Symbol 
+Rating 
+Unit 
+Continuous Forward Current 
+IF 
+25 
+mA 
+Peak Forward Current (Duty 1/10 @ 1KHZ) 
+IFP 
+100 
+mA 
+Reverse Voltage 
+VR 
+5 
+V 
+Power Dissipation 
+Pd 
+90 
+mW 
+Operating Temperature 
+Topr 
+-40 ~ +85 
+℃ 
+Storage Temperature 
+Tstg 
+-40 ~ +100 
+℃ 
+Soldering Temperature 
+Tsol 
+260 ℃ for 5 sec. 
+ 
+ 
+ 
+ 
+ 
+ Electro-Optical Characteristics (Ta=25℃) 
+ 
+Parameter 
+Symbol 
+Min. 
+Typ. 
+Max. 
+Unit 
+Condition
+Luminous Intensity 
+Iv 
+16 
+50 
+----- 
+mcd 
+IF=20mA 
+Viewing Angle 
+2θ1/2 
+----- 
+110 
+----- 
+deg 
+IF=20mA 
+Peak Wavelength 
+λp 
+----- 
+518 
+----- 
+nm 
+IF=20mA 
+Dominant Wavelength 
+λd 
+----- 
+525 
+----- 
+nm 
+IF=20mA 
+Spectrum Radiation Bandwidth 
+Δλ 
+----- 
+35 
+----- 
+nm 
+IF=20mA 
+Forward Voltage 
+VF 
+----- 
+3.3 
+4.0 
+V 
+IF=20mA 
+Reverse Current 
+IR 
+----- 
+----- 
+50 
+μA 
+VR=5V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+3  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+ Typical Electro-Optical Characteristics Curves
+ 
+ 
+Relative Intensity vs. Wavelength (Ta=25℃)
+Directivity (Ta=25℃) 
+ 
+Relative Intensity (a.u.) 
+Radiation Angle 
+ 
+ 
+ 
+Wavelength (nm) 
+ 
+Relative Intensity (a.u.) 
+ 
+ 
+Forward Current vs. Forward Voltage (Ta=25℃) 
+Relative Intensity vs. Forward Current (Ta=25℃) 
+ 
+Forward Current (mA) 
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+0
+5
+10
+15
+20
+25
+ 
+Relative Intensity(a.u.) 
+0
+5
+10
+15
+20
+25
+0.0
+0.5
+1.0
+1.5
+  
+Forward Voltage (V) 
+ 
+Forward Current (mA) 
+ 
+ 
+Relative Intensity vs. Ambient Temp. 
+Forward Current vs. Ambient Temp. 
+ 
+Relative Intensity(a.u.) 
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+0.0
+0.5
+1.0
+1.5
+2.0
+ 
+Forward Current (mA) 
+0
+20
+40
+60
+80
+100
+0
+10
+20
+30
+40
+  
+Ambient Temperature Ta(℃) 
+ 
+Ambient Temperature Ta(℃) 
+ 
+ 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+4  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+  Package Dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Note: 
+1. All dimensions are in millimeters 
+2. The height of flange must be less than 1.5mm(0.059"). 
+3. Without special declared, the tolerance is ±0.25mm. 
+ 
+ 
+ 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+5  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+Pb
+EL ECTROSTATIC ELECTRONAGNETIC 
+MAGNETIC OR RADIOACTIVE RELDS
+anti-static for 750
+ 
+ Moisture Resistant Packing Materials 
+Label Explanation 
+ 
+ 
+CPN: Customer's  Production Number 
+P/N : Production Number 
+QTY: Packing Quantity 
+CAT: Ranks 
+HUE: Dominant Wavelength 
+REF: Reference 
+LOT No: Lot Number 
+ 
+ 
+ 
+ 
+ Packing Specification 
+■ Anti-electrostatic bag              ■ Inner Carton                       ■ Outside Carton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RoHS
+Pb
+X
+EVERLIGHT
+1003SUGD/S400-A4
+■ Packing Quantity  
+1.500 PCS/1 Bag, 5 Bags/1 Inner Carton 
+2. 10 Inner Cartons/1 Outside Carton 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+6  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+Prehead
+laminar wave
+Fluxing
+ 
+ 
+Notes 
+ 
+1. 
+Lead Forming 
+ 
+During lead formation, the leads should be bent at a point at least 3mm from the base of the epoxy bulb. 
+ 
+Lead forming should be done before soldering. 
+ 
+Avoid stressing the LED package during leads forming. The stress to the base may damage the LED’s characteristics or it 
+may break the LEDs. 
+ 
+Cut the LED lead frames at room temperature. Cutting the lead frames at high temperatures may cause failure of the LEDs. 
+ 
+When mounting the LEDs onto a PCB, the PCB holes must be aligned exactly with the lead position of the LED. If the LEDs 
+are mounted with stress at the leads, it causes deterioration of the epoxy resin and this will degrade the LEDs. 
+2. 
+Storage 
+ 
+The LEDs should be stored at 30°C or less and 70%RH or less after being shipped from Everlight and the storage life limits 
+are 3 months. If the LEDs are stored for 3 months or more, they can be stored for a year in a sealed container with a 
+nitrogen atmosphere and moisture absorbent material. 
+ 
+Please avoid rapid transitions in ambient temperature, especially, in high humidity environments where condensation can 
+occur. 
+3. 
+Soldering 
+ 
+Careful attention should be paid during soldering. When soldering, leave more then 3mm from solder joint to epoxy bulb, 
+and soldering beyond the base of the tie bar is recommended. 
+ 
+Recommended soldering conditions: 
+Hand Soldering 
+DIP Soldering 
+Temp. at tip of iron 
+300℃ Max. (30W Max.)
+Preheat temp. 
+100℃ Max. (60 sec Max.) 
+Soldering time 
+3 sec Max. 
+Bath temp. & time 
+260 Max., 5 sec Max 
+Distance 
+3mm Min.(From solder 
+joint to epoxy bulb) 
+Distance 
+3mm Min. (From solder 
+joint to epoxy bulb) 
+ 
+Recommended soldering profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Avoiding applying any stress to the lead frame while the LEDs are at high temperature particularly when soldering. 
+ 
+Dip and hand soldering should not be done more than one time 
+ 
+ 
+After soldering the LEDs, the epoxy bulb should be protected from mechanical shock or vibration until the LEDs return to 
+room temperature. 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+7  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+ 
+A rapid-rate process is not recommended for cooling the LEDs down from the peak temperature. 
+ 
+Although the recommended soldering conditions are specified in the above table, dip or hand soldering at the lowest 
+possible temperature is desirable for the LEDs. 
+ 
+ 
+Wave soldering parameter must be set and maintain according to recommended temperature and dwell time in the solder 
+wave.  
+4. 
+Cleaning 
+ 
+When necessary, cleaning should occur only with isopropyl alcohol at room temperature for a duration of no more than 
+one minute. Dry at room temperature before use. 
+ 
+Do not clean the LEDs by the ultrasonic. When it is absolutely necessary, the influence of ultrasonic cleaning on the LEDs 
+depends on factors such as ultrasonic power and the assembled condition. Ultrasonic cleaning shall be pre-qualified to 
+ensure this will not cause damage to the LED 
+5. 
+Heat Management 
+ 
+Heat management of LEDs must be taken into consideration during the design stage of LED application. The current 
+should be de-rated appropriately by referring to the de-rating curve found in each product specification. 
+ 
+The temperature surrounding the LED in the application should be controlled. Please refer to the data sheet de-rating 
+curve. 
+6. ESD (Electrostatic Discharge) 
+ 
+The products are sensitive to static electricity or surge voltage. ESD can damage a die and its reliability. 
+When handling the products, the following measures against electrostatic discharge are strongly 
+recommended: 
+Eliminating the charge 
+Grounded wrist strap, ESD footwear, clothes, and floors 
+Grounded workstation equipment and tools 
+ESD table/shelf mat made of conductive materials 
+ 
+Proper grounding is required for all devices, equipment, and machinery used in product assembly. 
+Surge protection should be considered when designing of commercial products. 
+ 
+If tools or equipment contain insulating materials such as glass or plastic, 
+the following measures against electrostatic discharge are strongly recommended: 
+Dissipating static charge with conductive materials 
+Preventing charge generation with moisture  
+Neutralizing the charge with ionizers 
+7. 
+Directions for use 
+ 
+The LEDs should be operated with forward bias. The driving circuit must be designed so that the LEDs are not subjected 
+to forward or reverse voltage while it is off. If reverse voltage is continuously applied to the LEDs, it may cause migration 
+resulting in LED damage. 
+8. 
+Other 
+ 
+Above specification may be changed without notice. EVERLIGHT will reserve authority on material change for above 
+specification. 
+ 
+When using this product, please observe the absolute maximum ratings and the instructions for using outlined in these 
+specification sheets. EVERLIGHT assumes no responsibility for any damage resulting from use of the product which does 
+not comply  
+with the absolute maximum ratings and the instructions included in these specification sheets. 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)
+DATASHEET 
+LAMP 
+1003SUGD/S400-A4 
+ 
+ 
+8  
+Copyright © 2010, Everlight All Rights Reserved. Release Date : Dec.19. 2013. Issue No: DLE-0005238.Rev.2 
+www.everlight.com 
+ 
+ 
+These specification sheets include materials protected under copyright of EVERLIGHT corporation. Please don’t 
+reproduce or cause anyone to reproduce them without EVERLIGHT’s consent. 
+ 
+　
+Ver.:2     Release Date:12/25/2013      狀態:Approved(正式發行)

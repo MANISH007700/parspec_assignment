@@ -1,0 +1,152 @@
+WALL
+COVE
+0-10V DIMMING | SMART LIGHTING COMPATIBLE | EXTERNAL DRIVER
+www.SSTLIGHTING.COM | 785-8560219 | 4811 QuAIL CREST PLACE, LAwRENCE, KS 66049
+UNDER CABINET LUMINAIRE
+PRODUCT NAME
+INPUT
+POWER FACTOR
+POWER CONSUMPTION
+DIMMING
+MATERIAL 
+WEIGHT
+SIZE
+MOUNTING 
+LIFETIME
+WARRANTY
+OPTICS
+OPERATING RANGE
+BEAM ANGLE
+EQUIVALENCE
+D
+SUNSTAR50-RC
+700mA / ~10VDC
+>0.9 
+6.5W
+0-10V dimming
+Anodized extruded aluminum, glass lens
+0.2 lb (0.08 kg)
+2” in Diameter, 3” in Length
+Recessed Mount into ceiling, Surface Mount,         
+Mounted to Conduit
+> 60,000 hrs
+Ten year limited warranty 
+Milled aluminum primary optic,  clear glass lens   
+Aluminum reflector, optional translucent diffuse
+-30°C to 40°C
+130°
+Traditional 50-60W halogen, Recessed in any 
+Building Material without a Can or Rough In Kit   
+DAMP LOCATION [IP64]
+Product
+LEd ModuLE SizE
+HouSing
+currEnt
+HouSing coLor
+BEaM angLE
+coLor tEMPEraturE
+diffuSEr
+Sr50
+-rc
+-0700
+-
+-
+-
+-
+Sr50
+M1X3
+1 ModuLE 3 cHiPS
+rc
+rEcESSEd
+0700
+Ma
+SV
+SiLVEr
+50
+50° 
+55
+5500K
+d
+diffuSEd
+M1X6
+1 ModuLE 6 cHiPS
+BK
+BLacK
+90
+90° 
+41
+4100K
+140
+140°
+35
+3500K
+27
+2700K
+27/55
+cct tuning
+rgB
+rgB
+SR50M1X6-RC-35
+SR50M1X6-RC-35
+E-5
+Product & 
+LEd ModuLE SizE
+inPut 
+currEnt
+PowEr 
+conSuMEd
+LuMEn 
+outPut
+fiXturE
+Efficacy
+Sr50 M1X3
+700 Ma
+6.5 w
+578 LM
+89 LM/w
+Sr50 M1X6
+700 Ma
+6.5 w
+693 LM
+107 LM/w
+cct
+2,700K
+3,500K
+4,100K
+5,500K
+LigHt outPut conVErSion
+.95
+1.0
+1.05
+1.16
+cri
+80
+80
+80
+75
+SR50-RC 
+Higher CRI (85, 90, or 95) are available upon request.
+Patented Fixture
+ 
+WAREHOUSE
+ACCESSORIES
+WALL
+SOFFIT
+PENDANTS
+ACCENT
+EXTERIOR
+SMART 
+CONTROL
+RGB
+GREEN
+WALL
+TUNNEL
+SPECIAL 
+APPLICATIONS
+CAR 
+WASH
+UNDER
+CABINET
+CEILING
+COVE
+CEILING
