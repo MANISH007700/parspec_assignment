@@ -3,11 +3,21 @@ import requests
 from io import BytesIO
 import sys
 
+from transformers import BertTokenizer, BertForSequenceClassification
 from utils import download_pdf_from_url, extract_text_from_pdf, clean_text
+from model import make_pred
+
+# load pytorch model and tokenizer from HF spaces
+@st.cache(allow_output_mutation=True)
+def get_model():
+    tokenizer = BertTokenizer.from_pretrained('luci007/LightingData-Bert-Finetuned')
+    model = BertForSequenceClassification.from_pretrained("luci007/LightingData-Bert-Finetuned")
+
+    return model, tokenizer
 
 
 # Main Streamlit app
-def main():
+def main(model, tokenizer):
     st.title("Welcome to PDF TEXT CLASSIFICATION WEB-APP")
 
     # Select input option (URL or File Upload)
@@ -66,12 +76,12 @@ def main():
 
     
     ## finally pass this cleaned text into model and get the predictions ##
-    
-
-
+    response = make_pred(model, tokenizer)
+    st.success(f"Category --> {response}")
 
     st.markdown("---")
     st.text("Built with ❤️ by Manish Sharma")
 
 if __name__ == "__main__":
-    main()
+    model, tokenizer = get_model()
+    main(model, tokenizer)
