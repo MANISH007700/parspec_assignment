@@ -36,7 +36,6 @@ _There are 5 Folders_ inside the repo
 
 - **_BERT_BASED_UNCASED_FINETUNED_CLEAN_DATA.ipynb_** : The Main experiment notebook which has code for loading the data, partitioning, DataLoader, Dataset Class and FineTuning the BERT BASED UNCASED MODEL on Cutom Data and Benchmarking it 
 - **_tutorial.ipynb_** : A tutorial notebook which you can run manually to check the entire flow and make preds.  
-- **_finetuned_model_** : Folder containing all the model weights and tokenizer weights of the finetuned model
 - **_rough_code_** : dir : This has my rough code
 - **_tuts_file_** : experimenting files which were stored for tutorial purpose. You can use them if you like 
 - **_push_to_hf_hub.ipynb_** : NB to push my finetuned model to HF hub

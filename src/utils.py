@@ -82,7 +82,7 @@ def clean_text(text_file: str) -> str:
 
     if text_file.endswith('.txt'):
 
-        # Step 3: Read the content of each text file
+        # Read the content of each text file
         with open(text_file, 'r') as file:
             text_content = file.read()
 

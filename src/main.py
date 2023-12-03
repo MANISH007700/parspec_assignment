@@ -11,7 +11,7 @@ import nltk
 nltk.download('stopwords')
 
 
-# load pytorch model and tokenizer from HF spaces
+# load pytorch model and tokenizer from HF spaces and cache it, hence no more loading everytime
 @st.cache_resource
 def get_model():
     tokenizer = BertTokenizer.from_pretrained('luci007/LightingData-Bert-Finetuned')
