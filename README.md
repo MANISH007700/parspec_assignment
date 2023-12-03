@@ -1,5 +1,5 @@
 # Parspec DataScientist Assignment
-This repo contains code and info for parspec assignment for DataScientist Role
+This repo contains code and info of parspec assignment for DataScientist Role
 
 Checkout the **APP HERE** -> https://parspec-bert-finetuned-lighting.streamlit.app/ 
 
@@ -11,18 +11,21 @@ _There are 2 ways to run the code / make predictions_
 You can click this link -> https://parspec-bert-finetuned-lighting.streamlit.app/  and make preds
  
 2 - You can checkout the notebook which I have created. Load the finetuned model and make preds.
-< to make it more accessible, I have pushed the finetuned model to huggingface hub : Check here -> https://huggingface.co/luci007/LightingData-Bert-Finetuned/tree/main >
+
+PS < to make it more accessible, I have pushed the finetuned model to huggingface hub : Check here -> https://huggingface.co/luci007/LightingData-Bert-Finetuned/tree/main >
 
 - Clone the repo
 - Install the requirements.txt file
 - Move into code folder -> `cd /parspec_assignment/code` 
 - Run the `tutorial.ipynb` file to make preds
+
 PS -> You need to have proper modules installed with versions to do so
 
 ---
 
 # Files and Folders ? 
 _There are 5 Folders_ inside the repo
+
 1 - `src/` : Folder containing all the main code for **Streamlit APP for deployment + Frontend**
 
 - **_main.py_** : Main Streamlit code 
@@ -52,12 +55,13 @@ _There are 5 Folders_ inside the repo
 - [x] : Download the pdf file from the URL and save them in directory [ ~ 1hrs ] - time taken to download, not for code [ start date - 30/11/23 ]
 - [x] : Extract text from the pdf files and save them in a .txt file [ ~ 30 mins ] - time taken to extract text, not for code [ start date - 30/11/23 ]
 - [x] : Convert the extracted text into a csv file [ for both train and test ]. This csv will be used for finetuning model
+- [x] : Cleaning and pre-processing the texts
 - [x] : Finetuned BERT base model and BERT large model, had issues in bert large model. Satisfied with bert base
 - [x] : Try out Debertav3 model from MSFT for text classification  [ couldn't do it, since model is large and no compute power]
-- [x] : Benchmarking the scores on test data [ Update : scored 91.25 % Accuracy ]
+- [x] : Benchmarking the scores on test data [ Update : **scored 91.25 % Accuracy** ]
 - [x] : Add a tutorial NB for the team to run the code and check preds
 - [x] : Uploaded to huggingface hub [link -> https://huggingface.co/luci007/LightingData-Bert-Finetuned]
-- [x] : Host on Streamlit Cloud [link -> https://parspec-bert-finetuned-lighting.streamlit.app/]
+- [x] : Host on Streamlit Cloud [ final link -> https://parspec-bert-finetuned-lighting.streamlit.app/]
 
 -----
 # Some Snapshots from the WEB-APP
